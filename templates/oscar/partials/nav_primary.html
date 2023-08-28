@@ -1,0 +1,40 @@
+{% extends "oscar/partials/nav_primary.html" %}
+{% load i18n %}
+
+
+{% block nav_items %}
+<li class="{% if request.resolver_match.url_name == 'home' %} active {% endif %}">
+    <a class="nav-link" href="{{homepage_url}}">
+       {% trans "Home" %}
+    </a>
+</li>
+<li>
+    <a class="nav-link" href="{% url 'boutique:index' %}">
+       {% trans "Boutiques" %}
+    </a>
+</li>
+
+{{ block.super }}
+{% endblock %}
+
+
+{% block nav_dropdown_extra_items %}
+    {% comment %} <a class="dropdown-item" href="{% url 'boutique:index' %}">
+        {% trans "Boutiques" %}
+    </a> {% endcomment %}
+
+    <a class="dropdown-item" href="{% url 'catalogue:about-us' %}">
+        {% trans "About Us" %}
+    </a>
+   
+{% endblock %}  
+
+
+
+
+{% load currency_filters %}
+{% load category_tags %}
+{% load i18n %}
+
+
+

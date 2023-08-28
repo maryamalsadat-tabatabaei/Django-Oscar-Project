@@ -1,0 +1,5 @@
+{% extends "oscar/checkout/preview.html" %}
+
+    {% block hiddenforms %}
+        {{ stripe_token_form }}
+    {% endblock %}

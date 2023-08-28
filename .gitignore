@@ -1,0 +1,19 @@
+# Ignore database files
+*.sqlite3
+
+# Ignore migration files, except __init__.py
+**/migrations/ !**/migrations/__init__.py
+
+/media/
+/static/
+
+/venv/
+/env/
+/venv/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
