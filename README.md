@@ -4,17 +4,17 @@ This repository contains a customized Django Oscar app that has been integrated 
 <br/>
 
 
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/6bbf481f-ec77-46ee-ad23-e64e64012f60" alt="Home Page" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/bdfc7498-3f9d-4d2a-98b9-2bf8ffd4b28d" alt="Boutique" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/dea76ca4-b9d3-4129-83ef-fa97729d6b7a" alt="Boutique-details" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/d01e4f98-8a5b-478d-b3e8-fc21bae6353f" alt="Boutique dashboard" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/aa2853c9-5014-4783-bd4e-cddcd0e1c9ac" alt="create new boutique" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/648ae077-37e8-4c96-b251-b6956c09ea62" alt="cart Page" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/947ead66-a80f-4f07-93d5-5d911c990d76" alt="Checkout Page" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/f454bffc-90a8-4f65-af80-f91c203fa872" alt="Stripe payment Page" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/0b0b34e1-14d7-4a22-87e9-7af52eaec0bd" alt="Order Page" width="300px" height="300px">
-<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/44b8f7d7-4512-4e1d-95e7-812747974cca" alt="confirmation Page" width="300px" height="300px">
 
+
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/d6515aab-3baf-4a40-9a7d-57277b8a5cba" alt="Home Page" width="30%" height="250px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/99d5e276-8ebb-4d61-a7c8-9ff7b298acf2" alt="cart Page" width="30%" height="250px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/527ce821-6bc4-4758-8172-b330e9b544b2" alt="Checkout Page" width="30%" height="250px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/cebaf521-6fc2-4ac0-a3b4-de3419e4f26c" alt="Order Page" width="30%" height="250px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/ed382ea1-2495-4de5-bce7-a4b4c3a06abc" alt="confirmation Page" width="30%" height="250px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/5724c854-5935-495b-a16b-582f5491e3d8" alt="Boutique" width="30%" height="150px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/15acd843-f2eb-4c00-91b3-8e8795a89ef1" alt="Boutique-details" width="30%" height="150px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/732225c2-0ce6-434d-8198-43d05a9c8558" alt="Boutique dashboard" width="30%" height="150px">
+<img src="https://github.com/maryamalsadat-tabatabaei/Django-Oscar-Project/assets/87692864/f98817cd-9930-4c15-b56f-a4ba4459789f" alt="create new boutique" width="30%" height="150px">
 
 ## Table of Contents
 
